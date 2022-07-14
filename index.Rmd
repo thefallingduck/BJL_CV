@@ -3,8 +3,8 @@ graphics: yes
 name: Benjamin J.
 surname: Linzmeier
 headcolor: 414141
-#qualifications: 
-position: "Ph.D."
+qualifications: "Ph.D."
+position: "Assistant Professor"
 address: "Department of Earth Sciences | University of South Alabama | Mobile, AL 36688"
 phone: "+1 251-460-7575"
 www: benlinzmeier.rocks
@@ -15,7 +15,7 @@ researchgate: Benjamin-Linzmeier
 github: thefallingduck
 linkedin: blinzmeier
 aboutme: |
-  I am interested in.
+  I am interested in geochemical signals recorded in shells.
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 csl: "csl/apa6-cv.csl"
 nocite: "@*"
