@@ -1,19 +1,21 @@
 ---
 graphics: yes
-name: JooYoung
-surname: Seo
+name: Benjamin J.
+surname: Linzmeier
 headcolor: 414141
 #qualifications: 
 position: "Ph.D."
-address: "614 E. Daniel St. | Room 5158, Champaign, IL 61820"
-phone: "+1 217-333-2671"
-www: jooyoungseo.github.io
-email: "jseo1005@illinois.edu"
-twitter: seo_jooyoung
-github: jooyoungseo
-linkedin: jooyoungseo
+address: "Department of Earth Sciences | University of South Alabama | Mobile, AL 36688"
+phone: "+1 251-460-7575"
+www: benlinzmeier.rocks
+email: "blinzmeier@southalabama.edu"
+twitter: delta18O
+googlescholar: "867HD8AAAAJ"
+researchgate: Benjamin-Linzmeier
+github: thefallingduck
+linkedin: blinzmeier
 aboutme: |
-  I am a learning scientist, data-science/software engineer, and internationally certified accessibility professional.
+  I am interested in.
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 csl: "csl/apa6-cv.csl"
 nocite: "@*"

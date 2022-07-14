@@ -1,7 +1,8 @@
-# Conference Presentations and Invited Talks
-
+# Presentations
+## Invited talks
 `r knitr::knit_child("data/poster_short.txt")`
-
+## Selected professional talks
+## Selected professional posters
 <!-- ## Invited Guest Lectures -->
 <!-- ```{r talk}
 ezpickr::pick("data/talk.xlsx") %>%
