@@ -5,3 +5,7 @@ fonts/*
 tenure_progress/*
 
 .Rproj.user
+
+.RDataTmp*
+*.RData
+.Rhistory
